@@ -6,7 +6,7 @@ Moreover, a manuscript as an extension to the aforementioned publication titled 
 
 # Publications
 
-The source codes and resources pertinent to the first publication, "Implicit Entity Linking through Ad-hoc Retrieval", can be found [here] (https://github.com/HawreH/Implicit-Entity-Linking-through-Ad-Hoc-Document-Retrieval_ ).
+The source codes and resources pertinent to the first publication, "Implicit Entity Linking through Ad-hoc Retrieval", can be found at https://github.com/HawreH/Implicit-Entity-Linking-through-Ad-Hoc-Document-Retrieval_
 
 The source codes and data pertinent to "Implicit Entity Linking in Tweets: an Ad-hoc Retrieval Approach" can be found in this repository as described below. Additionally, the abstract and more detailed explanation of this research work can be found on the [wiki] (https://github.com/HawreH/Implicit-Entity-Recognition-and-Linking-in-Tweets-Resources-and-Dataset/wiki) of this repository.
 
