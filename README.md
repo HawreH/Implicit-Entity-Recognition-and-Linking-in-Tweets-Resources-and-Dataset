@@ -13,7 +13,7 @@ The source codes and data pertinent to "Implicit Entity Linking in Tweets: an Ad
 
 
 # Dataset
-This [gold standard dataset for implicit entity recognition, classification and linking](https://github.com/HawreH/Implicit-Entity-Recognition-and-Linking-in-Tweets-Resources-and-Dataset/tree/master/Dataset) contains 7870 tweets of three categories of #Implicit*, *Explicit*, and *NIL*.
+This [gold standard dataset for implicit entity recognition, classification and linking](https://github.com/HawreH/Implicit-Entity-Recognition-and-Linking-in-Tweets-Resources-and-Dataset/tree/master/Dataset) contains 7870 tweets of three categories of *Implicit*, *Explicit*, and *NIL*.
 
 A two-level taxonomy comprised of fine-grained and coarse-grained class levels has been designed for structuring and collection of our gold standard dataset. Our taxonomy contains 7 coarse-grained entity types, namely PERSON, ORGANIZATION, LOCATION, PRODUCT, EVENT, and WORK. These tags and the fine-grained classes pertinent to each tag are based on the DBpedia taxonomy.
 
